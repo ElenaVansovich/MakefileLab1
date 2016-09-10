@@ -1,6 +1,8 @@
-void main()
+#include "world.h"
+
+int main()
 {
 	worldHello();
 	worldGoodbye();
-	return;
+	return 0;
 }
